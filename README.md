@@ -4,4 +4,4 @@ The objective of this repository is to contain controllers for the Cassie robot 
 
 The main reason for all of this is to exercise my robotics / control theory / simulation knowledge and C++ programming capabilities.
 
-Many thanks to https://github.com/bulletphysics/pybullet_robots/ from where I obtained the Cassie model. 
+Many thanks to https://github.com/bulletphysics/pybullet_robots/ from where I obtained the Cassie model. For the moment, some of the placeholder code is also obtained from this repository.
